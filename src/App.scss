@@ -144,5 +144,11 @@ table{
 @media (max-width: 850px) {
   .main-wrapper{
     flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
+  .weather-wrapper {
+    margin-right: 0px;
   }
  }
